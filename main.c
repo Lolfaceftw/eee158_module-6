@@ -172,6 +172,8 @@ static void prog_loop_one(prog_state_t *ps)
                     ps->lc = ps->rx_desc_buf[a];
 				}
 				ps->tx_desc[1].len = c;
+                t_mx[1]= ~(ps->lc);
+                SERCOM2_I2C_Write_Polled(0x25,t_mx,2);
 			} else {
 				ps->tx_desc[1].len = 7;
 				ps->tx_desc[1].buf = "<None> ";

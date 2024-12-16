@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=EEE158_Mod06_Sample.X
+PROJECTNAME=eee158_module-6
 
 # Active Configuration
 DEFAULTCONF=default

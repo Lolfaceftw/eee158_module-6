@@ -6,5 +6,5 @@
 CND_BASEDIR=`pwd`
 # default configuration
 CND_ARTIFACT_DIR_default=dist/default/production
-CND_ARTIFACT_NAME_default=EEE158_Mod06_Sample.X.production.hex
-CND_ARTIFACT_PATH_default=dist/default/production/EEE158_Mod06_Sample.X.production.hex
+CND_ARTIFACT_NAME_default=eee158_module-6.production.hex
+CND_ARTIFACT_PATH_default=dist/default/production/eee158_module-6.production.hex
