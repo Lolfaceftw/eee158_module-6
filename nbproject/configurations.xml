@@ -208,6 +208,11 @@
         <property key="stack-smashing" value=""/>
         <property key="wpo-lto" value="false"/>
       </C32Global>
+      <Tool>
+        <property key="memories.programmemory.ranges" value="0-7ffff"/>
+        <property key="programmerToGoFilePath"
+                  value="C:/Users/chris/OneDrive/UPD Docs/III - Electronics Engineering/Academic Units/EEE 158/Module 6/EEE 158 Module 5 - USART (Code Templates)/EEE158_Mod06_Sample.X/debug/default/EEE158_Mod06_Sample_ptg"/>
+      </Tool>
       <nEdbgTool>
         <property key="memories.programmemory.ranges" value="0-7ffff"/>
         <property key="programmerToGoFilePath"

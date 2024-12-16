@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
-  <executable name="dist/default/production/EEE158_Mod06_Sample.X.production.elf">
+  <executable name="dist/default/production/eee158_module-6.production.elf">
     <memory name="program">
       <units>bytes</units>
       <length>262144</length>
-      <used>9552</used>
-      <free>252592</free>
+      <used>9544</used>
+      <free>252600</free>
     </memory>
     <memory name="data">
       <units>bytes</units>
